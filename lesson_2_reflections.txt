@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the .git directory is created. So git is ready to ready to receive commits. Otherwise if you run a commit command in a wrong directory you would create unwanted repositories everywhere.
+by seperating creation of a repository and commiting I can also add commit messages and commit the files in several logical rounds.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is the files being tracked and you want to include in a commit. It gives you a more fine grained control of what is commited.
+one commit is logically one unit. 
+You may have some extra files in the working directory. Files you copy from that are just relevant for the work flow. 
