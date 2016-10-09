@@ -21,3 +21,9 @@ I can also work on both branches. Perhaps it is possible to merge features from 
 branch into the other branch
 If I had a basic setup that could be used to implement different features I could do that
 Though different projects is a different option. Smaller overhead with branches.
+
+How do the diagrams help you visualize the branch structure?
+I can see which changes are common to different branches. 
+So if something is different I know which commits might be responsible.
+I could perhaps also want to branch on early features in a branch.
+ 
