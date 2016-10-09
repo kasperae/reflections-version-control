@@ -11,3 +11,13 @@ You may have some extra files in the working directory. Files you copy from that
 How can you use the staging area to make sure you have one commit per logical change?
 I can only add the files related to a logical change to the staging area and split the 
 commiting into two different units if I have been working on two files.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+Branches could be helpfull if I want to work on new experimental features.
+If I want to try a different approach to solving a problem, like where to put the logic
+I can compare the two branches.
+I can also work on both branches. Perhaps it is possible to merge features from one
+branch into the other branch
+If I had a basic setup that could be used to implement different features I could do that
+Though different projects is a different option. Smaller overhead with branches.
