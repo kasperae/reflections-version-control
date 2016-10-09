@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is the files being tracked and you want to include in a commit. It gives you a more fine grained control of what is commited.
 one commit is logically one unit. 
 You may have some extra files in the working directory. Files you copy from that are just relevant for the work flow. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can only add the files related to a logical change to the staging area and split the 
+commiting into two different units if I have been working on two files.
