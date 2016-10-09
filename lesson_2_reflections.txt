@@ -26,4 +26,13 @@ How do the diagrams help you visualize the branch structure?
 I can see which changes are common to different branches. 
 So if something is different I know which commits might be responsible.
 I could perhaps also want to branch on early features in a branch.
- 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When two branches are merged together the changes introduces in both branches since
+the last common breakpoint are applied to the file.
+Both deletions and additions are performed.
+If both branches have changed the same lines of code you have to manually sort out the
+changes. use git diff to see the changes. They are also marked in the file like
+<<<<<<<<HEAD ||||||||merge   >>>>>>>>> name of branch.
+We represent it in teh diagram by joining the two branches. We do this because all
+changes are now on the ancestral line, when using git log.
