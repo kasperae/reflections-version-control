@@ -36,3 +36,9 @@ changes. use git diff to see the changes. They are also marked in the file like
 <<<<<<<<HEAD ||||||||merge   >>>>>>>>> name of branch.
 We represent it in teh diagram by joining the two branches. We do this because all
 changes are now on the ancestral line, when using git log.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+less work, when it is obvious how to merge.
+On a few occasions it might get it wrong
+If a merged function is only used in a section that needs manual help and the call to 
+the merged funtion gets weeded out the program might end up with relics that are never used.
