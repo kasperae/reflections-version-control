@@ -4,3 +4,11 @@ Sharing with other people (use my project and make something of their own or get
 If I have multiple computers
 If I want to backup
 If I want to run my code or upload my code to services that are integrated wirh github. appengine or ...
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If someone else adds a feature to my current branch on github that is not
+compatible with my current local branch. I will have to resolve those issues right
+now instead when I am finsihed with my own devellopment.
+Maybe I later figure out my current changes should not be on the main branch
+and instead on a new sidebranch or some other structural change.
+Interference is the main word here. Also on some computers I only work on some branches.
