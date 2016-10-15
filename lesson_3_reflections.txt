@@ -24,3 +24,11 @@ You could also use clones between different machines and github and people.
 Forks is clones on github. It is great for making your own version of projects on github.
 You do not need to argue with the owner about the direction of the project and aim of
 the project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can go through it and look at git diffs in the comfort of your own computer and
+while commuting (offline) (if the question is going on a fetch.)
+You can merge and go back to an old commit and start from there if you only want
+to branch on one of two commits by different authors.
+You might also revert easily to the last known state if you abondon your most recent
+changes.
