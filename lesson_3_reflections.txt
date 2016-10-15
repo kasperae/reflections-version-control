@@ -12,3 +12,15 @@ now instead when I am finsihed with my own devellopment.
 Maybe I later figure out my current changes should not be on the main branch
 and instead on a new sidebranch or some other structural change.
 Interference is the main word here. Also on some computers I only work on some branches.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A branch is within a repository. It is to work on a new experimental feature or a
+a different version of the program (easy-mode). To test out a different way of organizing
+code. Merging is a major feature for branches.
+A clone is a copy of an existing repository. It is not (WE have not learned about it
+anyway) possible to merge changes in one clone into another, which is easy with branches.
+It is useful if you have a codebase you might use for two different projects.
+You could also use clones between different machines and github and people.
+Forks is clones on github. It is great for making your own version of projects on github.
+You do not need to argue with the owner about the direction of the project and aim of
+the project.
