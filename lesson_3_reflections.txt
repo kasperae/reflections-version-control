@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+when I want other people to work on the project.
+Sharing with other people (use my project and make something of their own or get feedback)
+If I have multiple computers
+If I want to backup
+If I want to run my code or upload my code to services that are integrated wirh github. appengine or ...
