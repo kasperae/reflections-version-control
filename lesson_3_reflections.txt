@@ -3,7 +3,7 @@ when I want other people to work on the project.
 Sharing with other people (use my project and make something of their own or get feedback)
 If I have multiple computers
 If I want to backup
-If I want to run my code or upload my code to services that are integrated wirh github. appengine or ...
+If I want to run my code or upload my code to services that are integrated with github. appengine or ...
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If someone else adds a feature to my current branch on github that is not
