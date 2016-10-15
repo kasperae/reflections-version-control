@@ -32,3 +32,8 @@ You can merge and go back to an old commit and start from there if you only want
 to branch on one of two commits by different authors.
 You might also revert easily to the last known state if you abondon your most recent
 changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I might send zip copies of the files to each other. It would be a lot harder to merge.
+It would be easier to mess up. Easier to just update, when you do not have the overhead
+of creating commits. But then you lose the history tracking ability.
